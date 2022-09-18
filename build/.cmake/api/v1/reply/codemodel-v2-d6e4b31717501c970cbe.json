@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "utils",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "utils",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CubemapSLAM",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CubemapSLAM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CubemapSLAM-Debug-cff193ce394ad8bf3c18.json",
+					"name" : "CubemapSLAM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bin_vocabulary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bin_vocabulary-Debug-6a948bb74e697b1ab183.json",
+					"name" : "bin_vocabulary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cubemap_fangshan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubemap_fangshan-Debug-fa341d9e64e71c589225.json",
+					"name" : "cubemap_fangshan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cubemap_lafida::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubemap_lafida-Debug-924365c2386ece5cfb36.json",
+					"name" : "cubemap_lafida",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cubemap_vadas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubemap_vadas-Debug-6bf6af3652a5d792b452.json",
+					"name" : "cubemap_vadas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "jetson-utils::@c810615cce0f7acb82dc",
+					"jsonFile" : "target-jetson-utils-Debug-a3de9db193867721d4ac.json",
+					"name" : "jetson-utils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+		"source" : "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

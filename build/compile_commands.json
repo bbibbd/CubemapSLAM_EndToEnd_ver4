@@ -1,0 +1,397 @@
+[
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/bin_vocabulary.dir/Vocabulary/bin_vocabulary.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Vocabulary/bin_vocabulary.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Vocabulary/bin_vocabulary.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/cubemap_vadas.dir/Examples/cubemap_vadas.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Examples/cubemap_vadas.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Examples/cubemap_vadas.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/cubemap_vadas.dir/src/randInt8Calibrator.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/randInt8Calibrator.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/randInt8Calibrator.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/cubemap_vadas.dir/src/tensorNet.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/tensorNet.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/tensorNet.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/cubemap_vadas.dir/src/etoeNet.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/etoeNet.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/etoeNet.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/cubemap_lafida.dir/Examples/cubemap_lafida.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Examples/cubemap_lafida.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Examples/cubemap_lafida.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g   -o CMakeFiles/cubemap_fangshan.dir/Examples/cubemap_fangshan.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Examples/cubemap_fangshan.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/Examples/cubemap_fangshan.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/CamModelGeneral.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/CamModelGeneral.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/CamModelGeneral.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Frame.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Frame.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Frame.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/System.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/System.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/System.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Tracking.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Tracking.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Tracking.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/ORBExtractor.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/ORBExtractor.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/ORBExtractor.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Initializer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Initializer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Initializer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/ORBMatcher.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/ORBMatcher.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/ORBMatcher.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Map.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Map.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Map.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/MapPoint.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/MapPoint.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/MapPoint.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/KeyFrame.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/KeyFrame.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/KeyFrame.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/LocalMapping.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/LocalMapping.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/LocalMapping.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Viewer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Viewer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Viewer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/MapDrawer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/MapDrawer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/MapDrawer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/FrameDrawer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/FrameDrawer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/FrameDrawer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Optimizer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Optimizer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Optimizer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/g2o_cubemap_vertices_edges.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/g2o_cubemap_vertices_edges.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/g2o_cubemap_vertices_edges.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Converter.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Converter.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Converter.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/KeyFrameDatabase.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/KeyFrameDatabase.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/KeyFrameDatabase.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/LoopClosing.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/LoopClosing.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/LoopClosing.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/Sim3Solver.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Sim3Solver.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/Sim3Solver.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/PnPsolver.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/PnPsolver.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/PnPsolver.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/randInt8Calibrator.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/randInt8Calibrator.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/randInt8Calibrator.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/tensorNet.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/tensorNet.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/tensorNet.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DBOOST_SERIALIZATION_DYN_LINK -DBOOST_SERIALIZATION_NO_LIB -DCubemapSLAM_EXPORTS -DWITH_BOW2 -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -isystem /usr/local/include/opencv   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o CMakeFiles/CubemapSLAM.dir/src/etoeNet.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/etoeNet.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/src/etoeNet.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/URI.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/URI.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/URI.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/XML.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/XML.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/XML.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/camera/gstCamera.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/camera/gstCamera.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/camera/gstCamera.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/camera/v4l2Camera.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/camera/v4l2Camera.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/camera/v4l2Camera.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/codec/gstBufferManager.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstBufferManager.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstBufferManager.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/codec/gstDecoder.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstDecoder.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstDecoder.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/codec/gstEncoder.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstEncoder.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstEncoder.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/codec/gstUtility.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstUtility.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/codec/gstUtility.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/commandLine.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/commandLine.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/commandLine.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/cuda/cudaBayer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/cuda/cudaBayer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/cuda/cudaBayer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/cuda/cudaColorspace.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/cuda/cudaColorspace.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/cuda/cudaColorspace.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/cuda/cudaPointCloud.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/cuda/cudaPointCloud.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/cuda/cudaPointCloud.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/display/glBuffer.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glBuffer.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glBuffer.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/display/glCamera.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glCamera.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glCamera.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/display/glDisplay.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glDisplay.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glDisplay.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/display/glEvents.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glEvents.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glEvents.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/display/glTexture.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glTexture.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glTexture.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/display/glWidget.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glWidget.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/display/glWidget.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/filesystem.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/filesystem.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/filesystem.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/image/imageIO.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/image/imageIO.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/image/imageIO.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/image/imageLoader.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/image/imageLoader.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/image/imageLoader.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/image/imageWriter.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/image/imageWriter.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/image/imageWriter.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/input/devInput.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/input/devInput.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/input/devInput.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/input/devJoystick.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/input/devJoystick.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/input/devJoystick.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/input/devKeyboard.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/input/devKeyboard.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/input/devKeyboard.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/logging.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/logging.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/logging.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/network/IPv4.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/network/IPv4.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/network/IPv4.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/network/NetworkAdapter.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/network/NetworkAdapter.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/network/NetworkAdapter.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/network/Socket.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/network/Socket.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/network/Socket.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/threads/Process.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/threads/Process.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/threads/Process.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/threads/Thread.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/threads/Thread.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/threads/Thread.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/timespec.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/timespec.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/timespec.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/video/videoOptions.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/video/videoOptions.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/video/videoOptions.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/video/videoOutput.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/video/videoOutput.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/video/videoOutput.cpp"
+},
+
+{
+  "directory": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/build",
+  "command": "/usr/bin/g++  -DWITH_BOW2 -Djetson_utils_EXPORTS -I../ -I../include -I../ThirdParty/DBoW2 -I../ThirdParty/g2o -I/home/gibeom/Pangolin/include -I/home/gibeom/Pangolin/build/src/include -I/usr/include/eigen3 -I/usr/local/include/opencv -Ix86_64/include -Ix86_64/include/jetson-utils -I/usr/local/cuda/include -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/include/libxml2 -I/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include -I/usr/lib/x86_64-linux-gnu/glib-2.0/include   -std=c++11 -Wall -O3 -march=native -g -fPIC   -o utils/CMakeFiles/jetson-utils.dir/video/videoSource.cpp.o -c /home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/video/videoSource.cpp",
+  "file": "/home/gibeom/slam/CubemapSLAM_EndToEnd_ver3/utils/video/videoSource.cpp"
+}
+]

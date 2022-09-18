@@ -1,0 +1,84 @@
+%YAML:1.0
+#Camera.Iw: 1280
+#Camera.Ih: 720
+
+Camera.Iw: 1024
+Camera.Ih: 682
+# OCamCalib calibration results.
+# https://sites.google.com/site/scarabotix/ocamcalib-toolbox
+
+Camera.nrpol: 5
+Camera.nrinvpol: 10
+
+Camera.a0: -3.542229e+02
+Camera.a1: 0.000000e+00
+Camera.a2: 6.068039e-03
+Camera.a3: 2.099577e-06
+Camera.a4: -1.338579e-08
+
+Camera.pol0: 515.420339
+Camera.pol1: 329.146318 
+Camera.pol2: 91.350781 
+Camera.pol3: 119.338458 
+Camera.pol4: 76.098740
+Camera.pol5: 45.831838 
+Camera.pol6: -4.800336
+Camera.pol7: -33.006383 
+Camera.pol8: -17.608163
+Camera.pol9: -2.742201 
+#Camera.pol10: 27.221965
+
+Camera.c: 1.000000
+Camera.d: -0.00000
+Camera.e: -0.00000
+
+Camera.u0: 516.309
+Camera.v0: 347.430
+#Camera.u0: 628.670093
+#Camera.v0: 355.683942
+
+##################################################
+
+Camera.fov: 185
+
+CubeFace.h: 650
+CubeFace.w: 650
+
+Camera.fps: 25.0
+Camera.RGB: 1
+
+# Modify nFeatures depending on performance.
+ORBextractor.nFeatures: 4000
+ORBextractor.scaleFactor: 1.2
+ORBextractor.nLevels: 8
+#if there is a mask
+Camera.withFisheyeMask: 1
+
+# ORB Extractor: Fast threshold
+# Image is divided in a grid. At each cell FAST are extracted imposing a minimum response.
+# Firstly we impose iniThFAST. If no corners are detected we impose a lower value minThFAST
+# You can lower these values if your images have low contrast			
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+
+#--------------------------------------------------------------------------------------------
+# Viewer Parameters
+#--------------------------------------------------------------------------------------------
+Viewer.KeyFrameSize: 0.1
+Viewer.KeyFrameLineWidth: 1
+Viewer.GraphLineWidth: 1
+Viewer.PointSize: 2
+Viewer.CameraSize: 0.15
+Viewer.CameraLineWidth: 2
+Viewer.ViewpointX: 0
+Viewer.ViewpointY: -10
+Viewer.ViewpointZ: -0.1
+Viewer.ViewpointF: 2000
+
+FrameDrawer.MarginX: 260
+FrameDrawer.MarginY: 480
+
+#--------------------------------------------------------------------------------------------
+# Map Parapeters
+#--------------------------------------------------------------------------------------------
+Map.mapfile: map.bin
